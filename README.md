@@ -8,7 +8,7 @@ https://yottadb.com/
 
 https://docs.yottadb.com/ProgrammersGuide/index.html
 
-![Beispiel](PastedGraphic-6.tiff)
+![Beispiel](yottadb-screenshot.png)
 
 ## Installation
 
@@ -30,7 +30,7 @@ $ydb_dist/ydb
 Type the command as is and don't expand the `ydb_dist` variable in the
 command above!
 
-## Using the Echo kernel
+## Using the YottaDB kernel
 
 **Notebook**: The *New* menu in the notebook should show an option for an
 YottaDB notebook.
